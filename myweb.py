@@ -82,4 +82,4 @@ elif selection == "Projects":
     st.subheader("Age Difference Analysis")
     st.write("- Analyzed death age differences between right-handers and left-handers using Python.")
 
-st.sidebar.info("Created by Khurram")
+st.sidebar.info("In Development")
